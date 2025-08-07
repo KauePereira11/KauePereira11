@@ -1,5 +1,30 @@
-## Hi there 👋
+#  Kauê Pereira
 
+### `Desenvolvedor de Software`
+
+- Experiência de desenvolvimento com HTML, CSS e JavaScript
+- Ciência da Computação 4/8
+
+---
+
+###  Linguagens e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,)](https://skillicons.dev)
+
+
+---
+
+###  Contato
+
+ <div style="display: inline-block">
+   <ul>
+     <li><a target="_blank" href="https://www.linkedin.com/in/guilherme-santos-alves-50088b1a8/">LinkedIn</a></li>
+   </ul>
+ </div>
+
+
+
+ 
 <!--
 **KauePereira11/KauePereira11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
